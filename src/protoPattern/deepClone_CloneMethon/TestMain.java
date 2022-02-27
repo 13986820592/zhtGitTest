@@ -7,5 +7,6 @@ public class TestMain {
         Sheep sheep1 =(Sheep) sheep.clone();
         sheep1.grass.name = "yellow";
         System.out.println(sheep1);
+        System.out.println("git  out");
     }
 }
